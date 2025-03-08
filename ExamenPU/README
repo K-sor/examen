@@ -1,0 +1,18 @@
+# Proyecto Trapecio
+
+Este proyecto implementa las funciones para calcular el área y el perímetro de un trapecio. Además, incluye pruebas unitarias para asegurar que el cálculo se realiza correctamente.
+
+## Requisitos
+
+- **Python 3.x**: Asegúrate de tener Python instalado en tu sistema.
+- **Visual Studio Code**: Aunque puedes usar cualquier editor de código, Visual Studio Code es una excelente opción para trabajar con Python.
+- **Extensión Python para VS Code**: Si usas Visual Studio Code, asegúrate de tener instalada la extensión de Python.
+
+## Instalación
+
+1. **Clonar el repositorio**:
+   
+   Si aún no has clonado el repositorio, utiliza el siguiente comando en tu terminal:
+
+   ```bash
+   git clone https://github.com/tu-usuario/ExamenAdmin.git
